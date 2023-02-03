@@ -1,0 +1,15 @@
+
+.btn {
+background:#ab108a;
+color:#000000;
+border:0px;
+padding:16px;
+}
+
+.valido{
+    color: rgb(95, 0, 94);
+}
+
+.invalido{
+    color: rgb(0, 116, 127);
+}
